@@ -27,7 +27,7 @@ We can add your contribution to a discussion if you can’t do so yourself.
 ## Overview of the component proposal process
 
 **Introduce new component ideas in the discussion board.**
-The [“Component proposals” discussion board]([url](https://github.com/uswds/uswds/discussions/categories/component-proposals)) is where the USWDS core team and community submit new component ideas, share opinions about existing ideas, and vote to express support and interest.
+The [“Component proposals” discussion board](https://github.com/uswds/uswds/discussions/categories/component-proposals) is where the USWDS core team and community submit new component ideas, share opinions about existing ideas, and vote to express support and interest.
 Discussions are informal conversations where we can all work together to address the merits, risks, and design of a component.
 
 **The USWDS core team turns discussions into proposals.**
@@ -41,12 +41,12 @@ In that phase, the core team will conduct a formal review of the proposal and sh
 ## Suggesting a new component
 
 Anyone can suggest a new USWDS component.
-If you have a new component idea, get a conversation started with a [GitHub discussion]([url](https://github.com/uswds/uswds/discussions/categories/component-proposals)).
+If you have a new component idea, get a conversation started with a [GitHub discussion](https://github.com/uswds/uswds/discussions/categories/component-proposals).
 The USWDS team uses the information from these new component discussions to create formal component proposals.
 
 1. First, review the component proposals category in GitHub discussions to see if anyone has already suggested the component.
   If the component has been suggested, you can share ideas and add information or context to the discussion, or just express your interest.
-1. If a discussion doesn’t exist, [create a new component discussion]([url](https://github.com/uswds/uswds/discussions/categories/component-proposals)).
+1. If a discussion doesn’t exist, [create a new component discussion](https://github.com/uswds/uswds/discussions/new?category=component-proposals).
   This discussion is the place to discuss the merits of the new component, in collaboration with the community and the USWDS team.
   What makes a good case for a USWDS component?
   We've outlined the criteria in our [USWDS proposal template](https://github.com/uswds/uswds-proposals/tree/main/proposals/_proposal-template.md).
