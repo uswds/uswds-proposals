@@ -5,7 +5,7 @@ The U.S. Web Design System (USWDS) component proposal process is the first phase
 The component proposal process helps the USWDS core team understand community interest in new components.
 Anyone can contribute — community contribution is at the heart of this process. We encourage you to share your ideas, opinions, and votes.
 
-This repo is where we store proposals and document our decisions about new components.
+This repository, or "repo" for short, is where we store proposals and document our decisions about new components.
 
 ## Scope
 
