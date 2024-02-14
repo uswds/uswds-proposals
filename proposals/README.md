@@ -1,5 +1,8 @@
 # How to create and submit a new proposal
 
+> [!IMPORTANT]  
+> Only USWDS core team members can create proposals. We will close any proposal pull request that does not come from the USWDS core team. If you'd like to help make the case for a new USWDS component or comment an existing proposal, use the [USWDS component proposals discussion board](https://github.com/uswds/uswds/discussions/categories/component-proposals) instead. 
+
 1. **First, find out if a proposal for this idea already exists.**
 1. **If a proposal doesn't exist, it's time to create one.** Here are the steps:
     1. **Create a new branch.** Create a new branch for the proposal named: `[your initials]-component-[proposed component name]`. For example, if Jane Doe was creating a proposal for a loader component, the branch would be named `jd-component-loader`.
