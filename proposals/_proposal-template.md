@@ -74,7 +74,7 @@ Define the appropriate use cases for this component.
 
 Identify the scenarios where this component would not be the appropriate choice.
 
-- What are common misuses of this type of component?
+- Are there common ways this type of component is misused?
 - Are there similar interactions that would be better supported by other components?
 - What kind of content should not be added to this component?
 

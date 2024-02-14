@@ -19,11 +19,11 @@ Learn more about the ways you can contribute to USWDS on the [contribution page]
 
 ## Help with GitHub
 
-The USWDS component proposal process requires knowledge of GitHub
-[discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/collaborating-with-maintainers-using-discussions),
-[branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches),
-[issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue),
-and [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+The USWDS component proposal process requires knowledge of a few GitHub concepts:
+- [Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+- [Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/collaborating-with-maintainers-using-discussions)
+- [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+- [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 If you need help contributing to the proposal process, please [reach out via email](mailto:uswds@gsa.gov).
 We can add your contribution to a discussion if you can’t do so yourself.
 
