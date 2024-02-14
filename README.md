@@ -7,6 +7,10 @@ Everyone is welcome — community contribution is at the heart of this process. 
 
 This repository, or "repo" for short, is where we store proposals and document our decisions about new components.
 
+> [!IMPORTANT]  
+> Only USWDS core team members can create proposals. We will close any proposal pull request that does not come from the USWDS core team. If you'd like to help make the case for a new USWDS component or comment on an existing proposal, use the [USWDS component proposals discussion board](https://github.com/uswds/uswds/discussions/categories/component-proposals) instead. 
+
+
 ## Scope
 
 At this time, the proposal process is only for new component ideas.
