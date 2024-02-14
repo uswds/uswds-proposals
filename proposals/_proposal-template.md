@@ -17,7 +17,6 @@ Describe the component in one sentence.
 
 Explain the need for this component.
 
-- What key interaction or user pattern does this component support?
 - What gap does this component fill in the design system? How is this different from existing USWDS components?
 - What problem does this component solve?
 - Does this component directly support any federal laws, guidance, or policies?
@@ -76,7 +75,7 @@ Identify the scenarios where this component would not be the appropriate choice.
 
 - Are there common ways this type of component is misused?
 - Are there similar interactions that would be better supported by other components?
-- What kind of content should not be added to this component?
+- What kind of content should teams _not_ use with this component?
 
 ## 3. Usability and accessibility
 
@@ -88,6 +87,7 @@ Identify any key usability considerations. When possible, provide supporting lin
 - What are the characteristics of a successful interaction with this component?
 - What would make this component less usable?
 - What are common pitfalls or implementation mistakes associated with this component?
+- How might the mobile context affect how you use this component?
 
 ### 3.2 Accessibility considerations
 
@@ -95,7 +95,7 @@ Identify any key accessibility considerations. When possible, provide supporting
 
 - Will users of any assistive technologies struggle with this component?
   List any potential risks for users of keyboard navigation, screen readers, zoom magnification, voice command, etc.
-- Are there any audiences that might struggle with this component?
+- Are there any other audiences that might struggle with this component?
 - Describe how this component might become inaccessible.
 
 ## 4. Stakeholders
