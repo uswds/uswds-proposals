@@ -1,4 +1,4 @@
-# [Component name] proposal
+# [COMPONENT_NAME] proposal
 
 ## 1. About this component
 
