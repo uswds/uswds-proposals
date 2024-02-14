@@ -27,7 +27,7 @@ We can add your contribution to a discussion if you are not able to sign up for 
 ## Overview of the component proposal process
 
 **Introduce new component ideas in the discussion board.**
-The “Component proposals” discussion board is where USWDS core team and community submit new component ideas, share opinions about existing ideas, and vote to express support and interest.
+The “Component proposals” discussion board is where the USWDS core team and community submit new component ideas, share opinions about existing ideas, and vote to express support and interest.
 Discussions are informal conversations where we can all work together to address the merits, risks, and design of a component.
 
 **The USWDS core team turns discussions into proposals.**
@@ -40,7 +40,7 @@ In that phase, the core team will conduct a formal review of the proposal and sh
 
 ## Suggesting a new component
 
-Anyone can suggest a new U.S. Web Design System (USWDS) component.
+Anyone can suggest a new USWDS component.
 If you have a new component idea, get a conversation started with a GitHub discussion.
 The USWDS team uses the information from these new component discussions to create formal component proposals.
 
