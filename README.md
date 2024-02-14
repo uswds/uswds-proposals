@@ -1,6 +1,6 @@
 # USWDS component proposal process
 
-The U.S. Web Design System (USWDS) component proposal process is the first phase of the USWDS component lifecycle.
+The U.S. Web Design System (USWDS) component proposal process is the first phase of the [USWDS component lifecycle](https://designsystem.digital.gov/components/lifecycle/).
 
 The component proposal process helps the USWDS core team understand community interest in new components.
 Anyone can contribute — community contribution is at the heart of this process. We encourage you to share your ideas, opinions, and votes.
@@ -49,7 +49,7 @@ The USWDS team uses the information from these new component discussions to crea
 1. If a discussion doesn’t exist, create a new component discussion.
   This discussion is the place to discuss the merits of the new component, in collaboration with the community and the USWDS team.
   What makes a good case for a USWDS component?
-  We've outlined the criteria in our USWDS proposal template.
+  We've outlined the criteria in our [USWDS proposal template](https://github.com/uswds/uswds-proposals/tree/main/proposals/_proposal-template.md).
 1. Use the [uswds-public Slack channel](https://gsa-tts.slack.com/archives/C3F14AHSQ) or reach out to peers to get feedback and support.
 1. If the discussion tends toward support for including the component in the design system, the USWDS core team collects this information to create a formal component proposal.
 1. The USWDS team will share the proposal on the discussion thread.
