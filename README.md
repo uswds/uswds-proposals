@@ -22,7 +22,7 @@ The USWDS component proposal process requires knowledge of GitHub
 [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue),
 and [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 If you need help contributing to the proposal process, please [reach out via email](mailto:uswds@gsa.gov).
-We can add your contribution to a discussion if you are not able to sign up for a GitHub account.
+We can add your contribution to a discussion if you can’t do so yourself.
 
 ## Overview of the component proposal process
 
