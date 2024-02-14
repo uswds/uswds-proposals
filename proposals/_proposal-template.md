@@ -18,7 +18,7 @@ Describe the component in one sentence.
 Explain the need for this component.
 
 - What key interaction or user pattern does this component support?
-- What gap does this component fill in the Design System? How is this different from existing USWDS components?
+- What gap does this component fill in the design system? How is this different from existing USWDS components?
 - What problem does this component solve?
 - Does this component directly support any federal laws, guidance, or policies?
 
@@ -40,7 +40,7 @@ Identify possible variants for this component.
 
 #### 1.4.4 Demonstration (Optional)
 
-Add diagrams, images, wireframes and/or prototypes that visually demonstrate the component.
+Add diagrams, images, wireframes, and/or prototypes that visually demonstrate the component.
 
 ### 1.5 Implementation examples
 
