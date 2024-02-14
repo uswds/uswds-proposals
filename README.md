@@ -11,8 +11,11 @@ This repository, or "repo" for short, is where we store proposals and document o
 
 At this time, the proposal process is only for new component ideas.
 
-To submit a request for a new feature, code enhancement, or bug fix, [open an issue in the uswds repo](https://github.com/uswds/uswds/issues/new/choose) instead.
-Visit our [contribution page](https://designsystem.digital.gov/about/contribute/) to learn more about all the ways you can contribute to USWDS.
+### Other ways to contribute
+
+To request a new feature, code enhancement, or bug fix, [open an issue in the uswds repo](https://github.com/uswds/uswds/issues/new/choose) instead.
+
+Learn more about the ways you can contribute to USWDS on the [contribution page](https://designsystem.digital.gov/about/contribute/).
 
 ## Help with GitHub
 
