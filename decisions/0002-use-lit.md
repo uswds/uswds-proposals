@@ -2,7 +2,7 @@
 
 | Date       | Status   |
 | ---------- | -------- |
-| 2024-05-15 | Proposed |
+| 2024-05-15 | Accepted |
 
 ## Context
 
