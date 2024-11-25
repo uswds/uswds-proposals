@@ -1,4 +1,10 @@
 <!--
+The record number and the title should be in the filename.
+For example:
+/decisions/0000-adr-title.md
+-->
+
+<!--
 PR Title:
 ADR Proposal: A brief description
 -->
