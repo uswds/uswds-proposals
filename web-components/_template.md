@@ -3,6 +3,7 @@
 ## Landscape analysis
 
 _Provide a link to the code samples from the landscape analysis._
+
 <!--
   You can find these files in Google Drive:
   https://drive.google.com/drive/folders/1F8z7v5RCOV3D33iEz7TR0B8IHv20WNMF
@@ -13,6 +14,7 @@ _Provide a link to the code samples from the landscape analysis._
 ## Proposed component structure
 
 ### Critical content
+
 _In a table, list the component content that is critical for user understanding. These elements should always be painted on the page, even when JavaScript is unavailable or slow._
 
 <!--
