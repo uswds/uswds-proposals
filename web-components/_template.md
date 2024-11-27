@@ -19,8 +19,8 @@ _In a table, list the component content that is critical for user understanding.
 
 <!--
 | Element | Required attributes | Content |
-|--------|--------|--------|
-|  |  |  |
+| ------- | ------------------- | ------- |
+| --      | --                  | --      |
 -->
 
 ### Light DOM
@@ -49,16 +49,16 @@ _In a table, list the current and proposed variants for the component._
 
 <!--
 | USWDS 3 variant | Web components variant | Description | Defined via |
-|--------|--------|--------|--------|
-|  |  |  |  |
+| --------------- | ---------------------- | ----------- | ----------- |
+| --              | --                     | --          | --          |
 -->
 
 #### Proposed additional variants
 
 <!--
 | USWDS 3 variant | Web components variant | Description | Defined via |
-|--------|--------|--------|--------|
-| -- |  |  |  |
+| --------------- | ---------------------- | ----------- | ----------- |
+| --              | --                     | --          | --          |
 -->
 
 ### Props
@@ -68,17 +68,17 @@ _In a table, list the proposed props for the current and proposed variants for t
 #### Current variants
 
 <!--
-| Property | Description | Expected values
-|--------|--------|--------|
-|  |  |  |
+| Property | Description | Expected values |
+| -------- | ----------- | --------------- |
+| --       | --          | --              |
 -->
 
 #### Proposed additional variants
 
 <!--
-| Property | Description | Expected values
-|--------|--------|--------|
-| |  |  |
+| Property | Description | Expected values |
+| -------- | ----------- | --------------- |
+| --       | --          | --              |
 -->
 
 ### Slots
@@ -86,9 +86,9 @@ _In a table, list the proposed props for the current and proposed variants for t
 _In a table, list the proposed slots for the component._
 
 <!--
-| Slot | Element | Description
-|--------|--------|--------|
-|  |  |  |
+| Slot | Element | Description |
+| ---- | ------- | ----------- |
+| --   | --      | --          |
 -->
 
 ### CSS Parts
@@ -97,8 +97,8 @@ _In a table, list the proposed CSS parts for the component._
 
 <!--
 | Part name | Element |
-|--------|--------|
-|  |  |
+| --------- | ------- |
+| --        | --      |
 -->
 
 ### CSS Variables
@@ -109,16 +109,16 @@ _In a table, list the current settings for the component and their proposed CSS 
 
 <!--
 | USWDS 3 setting | CSS custom property | Description |
-|--------|--------|--------|
-|  |  |  |
+| --------------- | ------------------- | ----------- |
+| --              | --                  | --          |
 -->
 
 #### Proposed additional setting
 
 <!--
 | USWDS 3 setting | CSS custom property | Description |
-|--------|--------|--------|
-| -- |  |  |
+| --------------- | ------------------- | ----------- |
+| --              | --                  | --          |
 -->
 
 ### Translatable content
