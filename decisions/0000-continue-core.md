@@ -27,9 +27,9 @@ Status options:
 
 ## Context
 
-Continuing development of USWDS Core, also known as USWDS 4+, users will be able to rely on the current major version with the confidence that they won't need to do a big migration once USWDS Elements are released.
+Continuing development of the current HTML/CSS-based version of USWDS, which we're now calling USWDS Core, means teams will be able to rely on the current major version with confidence that they won't need to undertake a big migration as USWDS Elements components are released.
 
-Additionally, users of USWDS elements will the ability to "eject" from web components and fallback to traditional HTML and CSS to support completely new components that might not be available.
+Additionally, continuing support of USWDS Core will then allow the ability to "eject" from potential constraints in USWDS Elements (W3C Web Components-based) components and fall back to traditional HTML and CSS to support completely new components that might not be available or make more customizations in an equivalent USWDS Core component.
 
 ## Decision
 
