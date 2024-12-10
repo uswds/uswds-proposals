@@ -16,7 +16,7 @@ These decisions are part of the pre-alpha stage of web component development, wh
 
 ## How to create a pre-alpha document
 
-1. Create a branch for the web component pre-alpha using the following naming structure: `[component-name]-pre-alpha`
+1. Create a branch for the web component pre-alpha using the following naming structure: `[contributor initials]-pre-alpha-[component-name]`.
 1. Make a copy of the template in the web-components directory and rename it `[component-name].md`
 1. Fill out the template with the designated information
 1. Open a PR with your new branch
