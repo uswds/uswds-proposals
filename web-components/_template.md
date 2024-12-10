@@ -5,7 +5,7 @@
 _Provide a link to the code samples from the landscape analysis._
 
 <!--
-  You can find these files in Google Drive:
+  You can find these files in Google Drive (limited access):
   https://drive.google.com/drive/folders/1F8z7v5RCOV3D33iEz7TR0B8IHv20WNMF
 -->
 
@@ -15,7 +15,7 @@ _Provide a link to the code samples from the landscape analysis._
 
 ### Critical content
 
-_In a table, list the component content that is critical for user understanding. These elements should always be painted on the page, even when JavaScript is unavailable or slow._
+_In a table, list the component content that is critical for user understanding. These elements should always be on the page, even when JavaScript is unavailable or slow._
 
 <!--
 | Element | Required attributes | Content |
@@ -25,7 +25,7 @@ _In a table, list the component content that is critical for user understanding.
 
 ### Light DOM
 
-_Provide a code sample for the web component in the light DOM. Provide default and complex implementations when applicable._
+_Provide a code sample of how a user would add this web component to their project. Provide a default example and a complex example (when applicable)._
 
 <!--
 ```html
@@ -34,10 +34,11 @@ _Provide a code sample for the web component in the light DOM. Provide default a
 
 ### Shadow DOM
 
-_Provide a code sample of how the component will be built in the shadow DOM. Provide default and complex implementations when applicable._
+_Provide a code sample of how the component will be built in the shadow DOM. Provide a default example and a complex example (when applicable)._
 
 <!--
 ```html
+<!-- #shadow-root -->
 ```
 -->
 
@@ -48,17 +49,17 @@ _In a table, list the current and proposed variants for the component._
 #### Current variants
 
 <!--
-| USWDS 3 variant | Web components variant | Description | Defined via |
-| --------------- | ---------------------- | ----------- | ----------- |
-| --              | --                     | --          | --          |
+| USWDS 3 variant | Web components variant | Description | Related prop |
+| --------------- | ---------------------- | ----------- | ------------ |
+| --              | --                     | --          | --           |
 -->
 
 #### Proposed additional variants
 
 <!--
-| USWDS 3 variant | Web components variant | Description | Defined via |
-| --------------- | ---------------------- | ----------- | ----------- |
-| --              | --                     | --          | --          |
+| USWDS 3 variant | Web components variant | Description | Related prop |
+| --------------- | ---------------------- | ----------- | ------------ |
+| --              | --                     | --          | --           |
 -->
 
 ### Props
