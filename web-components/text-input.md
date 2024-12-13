@@ -126,3 +126,4 @@ N/A
 - Should textarea be its own custom element (ie, `<usa-textarea>`)?
 - Should hint text be a prop or a slot?
 - Is there ever a need to change the location of hint text? (maybe after the input?)
+- Are input mask, character count, etc distinct custom elements? How do these components interact with this?
