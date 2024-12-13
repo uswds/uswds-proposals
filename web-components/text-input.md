@@ -29,7 +29,7 @@ Sample default implementation:
 
 Sample complex variant implementation:
 ```html
-<usa-text-input state="error" width="lg" hint="Hint text">
+<usa-text-input state="disabled" width="lg" hint="Hint text">
     <label for="input-type-text">Text input label</label>
     <input type="tel" id="input-type-text" name="input-type-text" />
 </usa-text-input>
@@ -48,7 +48,7 @@ Sample complex variant build:
 ```html
 <label for="input-type-text" class="usa-label">Text input label</label>
 <p class="usa-hint" id="inputHint">Hint text</p>
-<input class="usa-input" id="input-type-text" name="input-type-text" ariadescribedby="inputHint">
+<input type="tel" class="usa-input usa-input--lg" disabled id="input-type-text" name="input-type-text" ariadescribedby="inputHint">
 ```
 
 ### Variants
