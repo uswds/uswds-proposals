@@ -29,19 +29,26 @@ Sample default implementation:
 
 Sample complex variant implementation:
 ```html
-<usa-text-input state="error" width="lg">
+<usa-text-input state="error" width="lg" hint="Hint text">
     <label for="input-type-text">Text input label</label>
-    <div class="usa-hint" id="inputHint">Hint text</div>
-    <input type="tel" id="input-type-text" name="input-type-text" ariadescribedby="inputHint" />
+    <input type="tel" id="input-type-text" name="input-type-text" />
 </usa-text-input>
 ```
 
 ### Shadow DOM
-_Same as [USWDS 3](https://federalist-3b6ba08e-0df4-44c9-ac73-6fc193b0e19c.sites.pages.cloud.gov/preview/uswds/uswds/develop/?path=/story/components-form-inputs-text-input--input)_
+_Same as [USWDS 3](https://federalist-3b6ba08e-0df4-44c9-ac73-6fc193b0e19c.sites.pages.cloud.gov/preview/uswds/uswds/develop/?path=/story/components-form-inputs-text-input--input), except `<div class="usa-hint">` is now a `<p>` element._
 
+Sample default build:
 ```html
 <label for="input-type-text" class="usa-label">Text input label</label>
-<input id="input-type-text" name="input-type-text" class="usa-input">
+<input class="usa-input" id="input-type-text" name="input-type-text">
+```
+
+Sample complex variant build:
+```html
+<label for="input-type-text" class="usa-label">Text input label</label>
+<p class="usa-hint" id="inputHint">Hint text</p>
+<input class="usa-input" id="input-type-text" name="input-type-text" ariadescribedby="inputHint">
 ```
 
 ### Variants
@@ -74,6 +81,7 @@ _Same as [USWDS 3](https://federalist-3b6ba08e-0df4-44c9-ac73-6fc193b0e19c.sites
 #### Current variants
 | Property | Description | Expected values
 |--------|--------|--------|
+| `hint` | Hint text for the input | Custom `string` |
 | `state` | Sets the state of the component | `error`, `success`, `disabled`, `focus` (?) |
 | `width` |  Set the width of the input element and label | `2xs`, `xs`, `sm`, `small`, `md`, `medium`, `lg`, `xl`, 2xl`  |
 
@@ -113,3 +121,8 @@ Unnamed slot
 
 ### Translatable content
 N/A
+
+### Open questions
+- Should textarea be its own custom element (ie, `<usa-textarea>`)?
+- Should hint text be a prop or a slot?
+- Is there ever a need to change the location of hint text? (maybe after the input?)
