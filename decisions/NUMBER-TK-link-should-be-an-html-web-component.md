@@ -1,8 +1,8 @@
-# 3. `usa-link` Should be an HTML Web Component
+# NUMBER TK. `usa-link` Should be an HTML Web Component
 
 | Date       | Status   |
 | ---------- | -------- |
-| 2024-08-23 | Proposed |
+| 2024-12-17 | Accepted |
 
 ## Context: What is an "HTML Web Component"?
 
