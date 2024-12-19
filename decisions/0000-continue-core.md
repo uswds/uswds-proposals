@@ -33,8 +33,32 @@ Additionally, continuing support of USWDS Core will then allow the ability to "e
 
 ## Decision
 
+We'll continue to develop USWDS Core and be more closely aligned with semantic versioning i.e. bumping major versions more often.
+
+### Alternatives
+
+We've considered Retiring USWDS 3 in favor of USWDS Elements, but decided against for the following reasons:
+
+1. This would be a major migration effort for all developers (including core team).
+1. Migrating existing USWDS 3 to USWDS elements doesn't make the design system more modular.
+1. Users wouldn't be able to "eject" from USWDS Elements if they need more fine-grained control over components.
+
+<!--
 Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
+-->
 
 ## Consequences
 
-Pros and cons of this decision, including potential trade-offs.
+### Benefits
+
+1. Teams can adopt elements incrementally to get easier updates and avoid costly migrations.
+1. Teams can fall back to traditional HTML, CSS, and JS to support custom components or make big customizations.
+1. Teams can support additional platforms that might not be suited for web components.
+1. Core team can experiment with newer baseline web features quicker.
+
+### Risks
+
+1. Teams will have more products to track, so we'll have to be clear about documentation and updates.
+1. Core team has more releases to manage, which could affect other work.
+1. Core team will have to be careful to avoid duplication and re-work when creating components in USWDS Elements.
+1. Core team will have to port over improvements from Elements to USWDS Core components.
