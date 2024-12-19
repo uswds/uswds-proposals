@@ -38,7 +38,7 @@ USWDS is becoming a set of tools and targets. To improve performance and allow f
 
 <!--
 Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
- -->
+-->
 
 ## Consequences
 
