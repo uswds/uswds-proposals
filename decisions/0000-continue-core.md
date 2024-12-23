@@ -33,15 +33,15 @@ Additionally, continuing support of USWDS Core will then allow the ability to "e
 
 ## Decision
 
-We'll continue to develop USWDS Core and be more closely aligned with semantic versioning i.e. bumping major versions more often.
+We'll continue to develop USWDS Core and move toward semantic versioning — that is, bumping major versions more often.
 
 ### Alternatives
 
-We've considered Retiring USWDS 3 in favor of USWDS Elements, but decided against for the following reasons:
+We've considered retiring USWDS 3 entirely in favor of USWDS Elements, but decided against for the following reasons:
 
-1. This would be a major migration effort for all developers (including core team).
-1. Migrating existing USWDS 3 to USWDS elements doesn't make the design system more modular.
-1. Users wouldn't be able to "eject" from USWDS Elements if they need more fine-grained control over components.
+1. This would be a major migration effort for all developers (including the USWDS core team).
+1. Migrating existing USWDS 3 directly to USWDS Elements doesn't make the design system more modular.
+1. Users wouldn't be able to fall back to USWDS Core if they need more fine-grained control over components or to build additional functionality.
 
 <!--
 Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
@@ -51,14 +51,14 @@ Options considered (with benefits and risks/mitigations), assumptions, choice ma
 
 ### Benefits
 
-1. Teams can adopt elements incrementally to get easier updates and avoid costly migrations.
-1. Teams can fall back to traditional HTML, CSS, and JS to support custom components or make big customizations.
-1. Teams can support additional platforms that might not be suited for web components.
-1. Core team can experiment with newer baseline web features quicker.
+1. Teams can adopt USWDS Elements incrementally, component by component, to get easier updates and avoid costly big-bang migrations.
+1. Teams can fall back to traditional HTML, CSS, and JS to support custom components or make considerable customizations.
+1. Teams can support additional platforms that might not work well with W3C Web Components.
+1. The USWDS Core team can experiment with newer baseline web features more quickly.
 
 ### Risks
 
 1. Teams will have more products to track, so we'll have to be clear about documentation and updates.
-1. Core team has more releases to manage, which could affect other work.
+1. Core team will have more releases to manage, which could affect other work.
 1. Core team will have to be careful to avoid duplication and re-work when creating components in USWDS Elements.
-1. Core team will have to port over improvements from Elements to USWDS Core components.
+1. Core team will have to make all relevant improvements in both USWDS Elements and USWDS Core components.
