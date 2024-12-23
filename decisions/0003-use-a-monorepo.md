@@ -1,4 +1,4 @@
-# NUMBER TK. USWSD Elments will not be a monorepo
+# 3. USWDS Elments will not be a monorepo
 
 | Date | Status |
 | ---- | ------ |
