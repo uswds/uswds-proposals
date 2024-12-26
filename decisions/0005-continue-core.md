@@ -9,11 +9,11 @@ PR Title:
 ADR Proposal: A brief description
 -->
 
-# 0000 Continue developing USWDS Core
+# 5. Continue developing USWDS Core
 
-| Date       | Status |
-| ---------- | ------ |
-| 2024-12-06 | Draft  |
+| Date       | Status   |
+| ---------- | -------- |
+| 2024-12-06 | Proposed |
 
 <!--
 Status options:
