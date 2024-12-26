@@ -11,9 +11,9 @@ ADR Proposal: A brief description
 
 # 0000-adr-title
 
-| Date       | Status |
-| ---------- | ------ |
-| 2024-12-19 | Draft  |
+| Date       | Status   |
+| ---------- | -------- |
+| 2024-12-19 | Proposed |
 
 <!--
 Status options:
@@ -50,8 +50,8 @@ Staying on the monolithic repo. This has proven difficult to maintain both centr
 
 - This improves reusability for all teams. For example, we can use tokens in both USWDS Core and Elements repo. Other teams will also be able to use tokens for their custom products.
 - Teams will be able to prototype quicker with utilities without having to compile SASS.
-- This allows teams to choose among these products, or even choose portions within these products, considering the tradeoffs that might come with each. This interchangeability can lead to reduced maintenance time and costs, simplify code dependencies, and/or allow further functionality flexibility.
-- Teams will be able to make USWDS product choices that will make their work easier to get started and keep up to date.
+- This allows teams to choose among these products, or even choose portions within these products, considering the tradeoffs that might come with each. This interchangeability can lead to reduced maintenance time and costs, simplify code dependencies, and/or allow further flexibility.
+- Teams will be able to make USWDS product choices that will make their work easier to get started and stay up to date.
 - USWDS Core team will be able to test code and manage dependencies more easily.
 - USWDS Core team will be able to ship features faster, with less risk of downstream breaks.
 
@@ -62,5 +62,6 @@ Staying on the monolithic repo. This has proven difficult to maintain both centr
 - USWDS Core team will need to take extra care to make sure there aren't interdependence issues or conflicts with new code.
 
 ## Supporting information
+
 - This decision was driven by significant research in 2024.
 - A cross-agency working group which includes teams and individuals from VA, SSA, DHS, IRS, and NIH, among others, provided feedback.
