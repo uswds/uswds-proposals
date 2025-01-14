@@ -58,9 +58,9 @@ Sample complex implementation with custom language strings (French) and multiple
 ```html
 <usa-identifier
   label="Identifiant de l'agence"
-  taxpayerDisclaimer=true
-  disclaimerIntroText="Un site officiel du"
+  disclaimerText="Un site officiel du"
   disclaimerConjunctionText="et"
+  taxpayerDisclaimer=true
   taxpayerText="Produit et publié aux frais des contribuables."
   ariaLabel="Identifiant de l'agence"
   domainName="domain.gov"
