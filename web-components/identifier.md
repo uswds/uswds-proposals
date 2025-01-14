@@ -16,7 +16,6 @@ Sample default implementation:
 
 ```html
 <usa-identifier
-  lang="en"
   domainName="domain.gov"
   parentAgencyLogo="https://designsystem.digital.gov/assets/img/circle-gray-20.svg"
   parentAgencyUrl="javascipt:void(0)"
