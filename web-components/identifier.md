@@ -233,6 +233,8 @@ N/A
 ### CSS Variables
 
 #### Current settings
+> [!note]
+> In this table, strikethrough styling conveys changes to the [existing settings documentation](https://designsystem.digital.gov/documentation/settings/#identifier). 
 
 | USWDS 3 setting | CSS custom property | Description |
 |--------|--------|--------|
