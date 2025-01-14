@@ -177,11 +177,11 @@ For ease of implementation, recommend we offer additional common translations in
 | Property | Type | Description | Required? |
 |--------|--------|--------|--------|
 | `lang` | string | Set the language for the default component text. Expected values: "en", "es". Default value is "en". | No |
-| `label` | string | Set a custom aria label for the identifier component. Default value for English translations: "Agency identifier", Default value for Spanish translations: "Descripción de la agencia" | No | 
-| `disclaimerText` | string | Custom text for the "official website" intro text. Default value for English translations: "An official website of the", Default value for Spanish translations: "Un sitio web oficial de" | No |
-| `disclaimerConjunctionText` | string | Custom text for the conjunction in the "official website" intro text when there are multiple parent agencies. Default value for English translations: "and", Default value for Spanish translations: "y" | No |
+| `label` | string | Set a custom aria label for the identifier component. Default values: "Agency identifier" for English translations, "Descripción de la agencia" for Spanish translations | No | 
+| `disclaimerText` | string | Custom text for the "official website" intro text. Default values: "An official website of the" for English translations, "Un sitio web oficial de" for Spanish translations. | No |
+| `disclaimerConjunctionText` | string | Custom text for the conjunction in the "official website" intro text when there are multiple parent agencies. Default values: "and" for English translations: "y" for Spanish translations. | No |
 | `taxpayerDisclaimer` | boolean | Include the taxpayer disclaimer.  A custom value can be set with `taxpayerText` attribute. | No |
-| `taxpayerText` | string | Set a custom value for the taxpayer disclaimer text. Default value for English translations: "Produced and published at taxpayer expense.", Default value for Spanish translations: "Producido y publicado con dinero de los contribuyentes de impuestos." | No |
+| `taxpayerText` | string | Set a custom value for the taxpayer disclaimer text. Default values: "Produced and published at taxpayer expense.", "Producido y publicado con dinero de los contribuyentes de impuestos." for Spanish translations | No |
 | `domainName` | string | Domain name for the website | Yes |
 | `parentAgencyLogo` | string | The url for the parent agency logo image | No |
 | `parentAgencyUrl` | string | The url for the parent agency's home page | Yes |
@@ -191,21 +191,21 @@ For ease of implementation, recommend we offer additional common translations in
 | `secondaryParentAgencyUrl` | string | The url for the secondary parent agency's home page | No |
 | `secondaryParentAgencyName` | string | The full name of the secondary parent agency | No |
 | `aboutURL` | string | The url for the parent agency's "About" page | Yes |
-| `aboutText` | string | Custom text for the "About" link. Default value for English translations: "About [Agency shortname or agency name], Default value for Spanish translations: "Acerca de [Agency shortname or agency name]" | No |
+| `aboutText` | string | Custom text for the "About" link. Default values: "About [Agency shortname or agency name] for English translations, "Acerca de [Agency shortname or agency name]" for Spanish translations. | No |
 | `accessibilityURL` | string | The url for the parent agency's "Accesibility statement" page | Yes |
-| `accessibilityText` | string | Custom text for the "Accessibility statement" link. Default value for English translations: "Accessibility statement", Default value for Spanish translations: "Declaración de accesibilidad"  | No |
+| `accessibilityText` | string | Custom text for the "Accessibility statement" link. Default values: "Accessibility statement" for English translations: "Declaración de accesibilidad" for Spanish translations. | No |
 | `foiaURL` | string | The url for the parent agency's "FOIA requests" page | Yes |
-| `foiaText` | string | Custom text for the "FOIA requests" link. Default value for English translations: "FOIA requests", Default value for Spanish translations: "Solicitud a través de FOIA" | No |
+| `foiaText` | string | Custom text for the "FOIA requests" link. Default values: "FOIA requests" for English translations, "Solicitud a través de FOIA" for Spanish translations. | No |
 | `noFearURL` | string | The url for the parent agency's "No FEAR Act data" page | Yes |
-| `noFearText` | string | Custom text for the  "No FEAR Act data" link. Default value for English translations: "No FEAR Act data", Default value for Spanish translations: "Datos de la ley No FEAR" | No |
+| `noFearText` | string | Custom text for the  "No FEAR Act data" link. Default values: "No FEAR Act data" for English translations, "Datos de la ley No FEAR" for Spanish translations. | No |
 | `oigURL` | string | The url for the parent agency's "Office of the inspector general" page | Yes |
-| `oigText` | string | Custom text for the  "Office of the inspector general" link. Default value for English translations: "Office of the inspector general", Default value for Spanish translations: "Oficina del Inspector General" | No |
+| `oigText` | string | Custom text for the  "Office of the inspector general" link. Default values: "Office of the inspector general" for English translations, "Oficina del Inspector General" for Spanish translations. | No |
 | `performanceURL` | string | The url for the parent agency's "Performance reports" page | Yes |
-| `performanceText` | string | Custom text for the  "Performance reports"  link. Default value for English translations: "Performance reports", Default value for Spanish translations: "Informes de desempeño" | No |
+| `performanceText` | string | Custom text for the  "Performance reports"  link. Default values:  "Performance reports" for English translations, "Informes de desempeño" for Spanish translations. | No |
 | `privacyURL` | string | The url for the parent agency's "Privacy policy" page | Yes |
-| `privacyText` | string | Custom text for the "Privacy policy"  link. Default value for English translations: "Privacy policy", Default value for Spanish translations: "Política de privacidad" | No |
-| `usagovText` | string | Custom text for the usa gov intro. Default value for English translations: "Looking for U.S. government information and services?", Default value for Spanish translations: "¿Necesita información y servicios del Gobierno?" | No |
-| `usagovLinkText` | string | Custom text for "Visit USA.gov" link. Default value for English translations: "Visit USA.gov", Default value for Spanish translations: "Visite USAGov en Español" | No |
+| `privacyText` | string | Custom text for the "Privacy policy"  link. Default values: "Privacy policy" for English translations, "Política de privacidad" for Spanish translations. | No |
+| `usagovText` | string | Custom text for the usa gov intro. Default values: "Looking for U.S. government information and services?" for English translations, "¿Necesita información y servicios del Gobierno?" for Spanish translations. | No |
+| `usagovLinkText` | string | Custom text for "Visit USA.gov" link. Default values: "Visit USA.gov" for English translations, "Visite USAGov en Español" for Spanish translations. | No |
 | `usagovUrl` | string | Custom url for usa.gov. Default values: "https://www.usa.gov/` for English translations, "https://www.usa.gov/es/" for Spanish Translations.   | No |
 
 #### Proposed additional variants
