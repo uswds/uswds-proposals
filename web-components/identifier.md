@@ -168,7 +168,7 @@ _Same as USWDS 3, with some proposed tweaks:_
 | Spanish (all variants) | Translates content for all variants into Spanish | `lang="es"` |
 
 #### Proposed additional variants
-For ease of implementation, recommend we offer additional common translations in the component that can be defined with the `lang` attribute.
+For ease of implementation and consistency across sites, I recommend that we offer additional pre-built translations for commonly used languages. Then the user would just need to set the single `lang` attribute to automatically receive approved translations for this component. 
 
 ### Props
 
