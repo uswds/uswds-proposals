@@ -1,4 +1,4 @@
-# 4. `usa-link` Should be an HTML Web Component
+# 4. `usa-link` should be an HTML Web Component
 
 | Date       | Status   |
 | ---------- | -------- |
