@@ -9,7 +9,7 @@ PR Title:
 ADR Proposal: A brief description
 -->
 
-# 0006 Improve modularity in USWDS
+# 6. Improve modularity in USWDS
 
 | Date       | Status   |
 | ---------- | -------- |
