@@ -100,7 +100,7 @@ Sample complex variant build:
 | -------- | -------------------------------------------- | ------------------------------------------------------------ |
 | `hint`   | Hint text for the input                      | Custom `string`                                              |
 | `state`  | Sets the state of the component              | `error`, `success`, `disabled`, `focus` (?)                  |
-| `width`  | Set the width of the input element and label | `2xs`, `xs`, `sm`, `small`, `md`, `medium`, `lg`, `xl`, 2xl` |
+| `width`  | Set the width of the input element and label | `2xs`, `xs`, `sm`, `small`, `md`, `medium`, `lg`, `xl`, `2xl` |
 
 #### Proposed additional variants
 
@@ -147,7 +147,7 @@ N/A
 
 ### Open questions
 
-- Should textarea be its own custom element (ie, `<usa-textarea>`)?
-- Should hint text be a prop or a slot?
-- Is there ever a need to change the location of hint text? (maybe after the input?)
-- Are input mask, character count, etc distinct custom elements? How do these components interact with this?
+1. Should textarea be its own custom element (ie, `<usa-textarea>`)?
+2. Should hint text be a prop or a slot?
+3. Is there ever a need to change the location of hint text? (maybe after the input?)
+4. Are input mask, character count, etc distinct custom elements? How do these components interact with this?
