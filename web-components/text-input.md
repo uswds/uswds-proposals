@@ -118,10 +118,7 @@ Unnamed slot
 
 ### CSS Parts
 
-| Part name | Element   |
-| --------- | --------- |
-| `input`   | `<input>` |
-| `label`   | `<label>` |
+N/A
 
 ### CSS Variables
 
