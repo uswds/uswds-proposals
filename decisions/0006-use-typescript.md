@@ -13,7 +13,7 @@ ADR Proposal: A brief description
 
 | Date       | Status   |
 | ---------- | -------- |
-| 2025-07-01 | Proposed |
+| 2025-07-08 | Approved |
 
 <!--
 Status options:
