@@ -10,7 +10,7 @@ We favor choices that work with the grain of the web.
 
 **Use progressive enhancement.** HTML web components containing relatively simple markup will enable teams to deliver critical content no matter what. Building components that way will ensure that content is available before JavaScript runs or even if it never does. But it also allows those components to apply all of the design and behavior customizations that CSS and JavaScript allow if and when they become available.
 
-**Avoid lock-in.** Building with the web platform, and using its native idioms is a way to keep USWDS from being tied to any particular framework. Picking tools that are not the most popular, but most portable. By keeping our reliance on dependencies as low as possible, we’ll be well-positioned to move on from them if they stop working the way we need them to or if a better alternative comes along. 
+**Avoid lock-in.** Building with the web platform, and using its native idioms, is a way to keep USWDS from being tied to any particular framework. Picking tools that aren't the most popular, but most portable. By keeping our reliance on dependencies as low as possible, we’ll be well-positioned to move on from them if they stop working the way we need them to or if a better alternative comes along. 
 
 **Support open standards.** Every site built with web standard technologies makes the entire web work a little bit better. By preferring open standards over proprietary frameworks, we can support a better, more interoperable web for our users and for the public.  
 
@@ -30,11 +30,11 @@ We favor choices that prioritize the end user experience.
 
 We favor choices that are thoughtful about our impact. 
 
-**Be a dependency not a fork.** We want to make it easier for teams to add USWDS to their projects in such a way as to maintain the connection between our work and theirs over time. 
+**Be a dependency not a fork.** We want to make it easier for teams to add USWDS to their projects in a way that maintains the connection between our work and theirs over time. 
 
 **Our opinions cascade.** We need to be thoughtful about the impact that USWDS has on downstream teams. Recognize that choices made at the Design System level establish the floor for performance and accessibility. Developers should be able to make their own choices about what point they hand control of the page over to scripts.
 
-**Use semantic versioning.** Be clear when things change. Semantic versioning is a kind of contract between developers and users. This contract gives users confidence that the code they’re consuming isn’t going to break anything in their code if they install it—unless the upstream team tells them ahead of time that the update contains a breaking change. USWDS will adopt semantic versioning for the web components package first, and then down the line revisit versioning for other parts of the design system.
+**Use semantic versioning.** Be clear when things change. Semantic versioning is a kind of contract between developers and users. This contract gives users confidence that the code they’re consuming isn’t going to break anything in their code if they install it - unless the upstream team tells them ahead of time that the update contains a breaking change. USWDS will adopt semantic versioning for the web components package first, and then down the line revisit versioning for other parts of the design system.
 
 **Support different tech stacks.** If USWDS uses only one set of technologies, it may sound great to teams already using those tools, but it imposes significant costs on everyone else. But since we’re all building for the web, the closer we stick to web standard technologies, the easier it will be for every team that wants to use USWDS to do so.
 
