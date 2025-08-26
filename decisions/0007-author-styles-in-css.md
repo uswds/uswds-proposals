@@ -9,7 +9,7 @@ PR Title:
 ADR Proposal: A brief description
 -->
 
-# 6. Develop Components in TypeScript
+# 7. Author Styles in CSS
 
 | Date       | Status   |
 | ---------- | -------- |
