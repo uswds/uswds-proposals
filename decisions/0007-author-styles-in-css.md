@@ -50,8 +50,8 @@ Options considered (with benefits and risks/mitigations), assumptions, choice ma
 ### Benefits
 
 1. A USWDS without Sass will make the project simpler to develop, maintain, and support. As a side benefit, authoring styles directly in CSS will allow the team to deprecate USWDS Compile, which is itself a source of numerous support requests as well as stubborn vulnerability warnings via `npm audit`.
-2. Leveraging custom properties instead of Sass variables will introduce more power and flexibility into USWDS. One major advantage custom properties have over Sass variables is that they can be changed at runtime. Because the 3.x theme system is based on Sass, it depends on a set of variables in various configuration files that can only be read at build time. A theme leveraging custom properties can be tweaked programatically at runtime by JavaScript.
-3. Custom properties are an important part of the styling story for web components. Because custom property values [ipropagate through shadown DOM](https://webcomponents.guide/learn/components/styling/#inheritance) unlike other CSS properties, they can be part of the API surface for USWDS web components.
+2. Leveraging custom properties instead of Sass variables will introduce more power and flexibility into USWDS. One major advantage custom properties have over Sass variables is that they can be changed at runtime. Because the 3.x theme system is based on Sass, it depends on a set of variables in various configuration files that can only be read at build time. A theme leveraging custom properties can be tweaked programmatically at runtime by JavaScript.
+3. Custom properties are an important part of the styling story for web components. Because custom property values [propagate through shadow DOM](https://webcomponents.guide/learn/components/styling/#inheritance) unlike other CSS properties, they can be part of the API surface for USWDS web components.
 4. Authoring styles directly in CSS rather than Sass accords with the [USWDS engineering values](https://github.com/uswds/uswds-proposals/blob/main/docs/engineering-values). In particular, using CSS hews closely to the web platform.
 
 ### Risks
