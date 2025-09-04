@@ -41,7 +41,7 @@ Options considered (with benefits and risks/mitigations), assumptions, choice ma
 
 Using JSON-formatted tokens allows those tokens to be converted into multiple output formats. Because USWDS styles are authored in CSS, the output format of first-resort will be CSS variables. However Sass users can also generate SCSS variables as well to suit their needs. JSON-formatted tokens can also connect to design tools such as Figma, allowing designers and engineers to share the same primitive values across tools.
 
-The existence of [draft spec](https://www.designtokens.org/tr/drafts/format/) for JSON-formatted tokens also supports this approach. Standards help ensure the consistency and interoperability of this approach which in turn will support its viability in the long term.
+The existence of a [draft spec](https://www.designtokens.org/tr/drafts/format/) for JSON-formatted tokens also supports this approach. Standards help ensure the consistency and interoperability of this approach which in turn will support its viability in the long term.
 
 ### Risks
 
