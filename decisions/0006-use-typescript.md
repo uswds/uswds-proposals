@@ -40,7 +40,7 @@ The main alternative to this decision is to continue developing components in va
 1. Given the other changes to our tooling (particularly our adoption of Lit and Vite), the additional overhead from adopting TypeScript is minimal.
 2. Continuing to deliver TypeScript-authored components in vanilla JavaScript will let the USWDS team benefit from the improved tooling without passing additional complexity on to design system users.
 
-Another alternative would be to ship components in TypeScript, but this would increase complexity for design system users as well as moving the code we ship further away from the web platform. We've committed to staying closer to the web platform as one of our engineering principles.
+Another alternative would be to ship components in TypeScript, but this would increase complexity for design system users as well as moving the code we ship further away from the web platform. We've committed to staying closer to the web platform as one of our [engineering values](https://github.com/uswds/uswds-proposals/blob/main/docs/engineering-values.md).
 
 <!--
 Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
