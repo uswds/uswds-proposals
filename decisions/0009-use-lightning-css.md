@@ -3,11 +3,11 @@ PR Title:
 ADR Proposal: Migrate Web Component CSS to Native Files with LightningCSS and vite-plugin-lit-css
 -->
 
-# Use LightningCSS for Web Component CSS
+# 9. Use LightningCSS for Web Component CSS
 
 | Date       | Status   |
 | ---------- |----------|
-| 2025-10-14 | Proposed |
+| 2025-10-14 | Approved |
 
 ## Context
 
