@@ -3,6 +3,10 @@ status: Accepted
 date: 2026-07-28
 affects:
   - "@uswds/uswds"
+decision-makers:
+  - "@ethangardner"
+consulted:
+  - "@heymatthenry"
 ---
 
 # 11. Use custom Vite plugins to migrate Storybook to v9
