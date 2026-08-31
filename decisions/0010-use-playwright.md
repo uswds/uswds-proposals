@@ -1,8 +1,12 @@
-# 10. Use Playwright for Visual Regression and Performance Testing
+---
+status: Accepted
+date: 2025-10-16
+affects:
+  - "@uswds/elements"
+  - "@uswds/uswds"
+---
 
-| Date       | Status   |
-| ---------- | -------- |
-| 2025-10-16 | Approved |
+# 10. Use Playwright for Visual Regression and Performance Testing
 
 ## Context
 

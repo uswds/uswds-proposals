@@ -1,23 +1,13 @@
-<!--
-PR Title:
-ADR Proposal: A brief description
--->
+---
+status: Accepted
+date: 2025-09-04
+affects:
+  - "@uswds/elements"
+  - "@uswds/tokens"
+  - "@uswds/uswds"
+---
 
 # 8. The Source of Truth for Design Tokens will be JSON
-
-| Date       | Status   |
-| ---------- | -------- |
-| 2025-09-04 | Approved |
-
-<!--
-Status options:
-- Draft
-- Proposed
-- Approved
-- Rejected
-- Deprecated
-- Superseded
--->
 
 ## Context
 
@@ -30,10 +20,6 @@ The source of truth for USWDS tokens will be JSON formatted according to the W3C
 ### Alternatives
 
 The two primary alternatives to this approach would be: to use CSS variables directly as the source of truth for tokens, or to keep token values in a design tool, such as Figma. The main reasons for choosing JSON as the source of truth over these alternatives are its flexibility and the existence of the draft spec.
-
-<!--
-Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
--->
 
 ## Consequences
 

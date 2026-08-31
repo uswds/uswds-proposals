@@ -1,13 +1,11 @@
-<!--
-PR Title:
-ADR Proposal: Migrate Web Component CSS to Native Files with LightningCSS and vite-plugin-lit-css
--->
+---
+status: Accepted
+date: 2025-10-14
+affects:
+  - "@uswds/elements"
+---
 
 # 9. Use LightningCSS for Web Component CSS
-
-| Date       | Status   |
-| ---------- |----------|
-| 2025-10-14 | Approved |
 
 ## Context
 

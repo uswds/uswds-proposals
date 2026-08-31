@@ -1,8 +1,11 @@
-# 4. `usa-link` should be an HTML Web Component
+---
+status: Accepted
+date: 2024-12-17
+affects:
+  - "@uswds/elements"
+---
 
-| Date       | Status   |
-| ---------- | -------- |
-| 2024-12-17 | Accepted |
+# 4. `usa-link` should be an HTML Web Component
 
 ## Context: What is an "HTML Web Component"?
 

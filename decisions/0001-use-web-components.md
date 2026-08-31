@@ -1,8 +1,11 @@
-# 1. The Next Version of the Design System will use Web Components
+---
+status: Accepted
+date: 2024-05-15
+affects:
+  - "@uswds/elements"
+---
 
-| Date       | Status   |
-| ---------- | -------- |
-| 2024-05-15 | Accepted |
+# 1. The Next Version of the Design System will use Web Components
 
 ## Context
 

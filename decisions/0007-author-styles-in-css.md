@@ -1,29 +1,13 @@
-<!--
-The record number and the title should be in the filename.
-For example:
-/decisions/0000-adr-title.md
--->
-
-<!--
-PR Title:
-ADR Proposal: A brief description
--->
+---
+status: Accepted
+date: 2025-08-26
+affects:
+  - "@uswds/compile"
+  - "@uswds/elements"
+  - "@uswds/uswds"
+---
 
 # 7. Author Styles in CSS
-
-| Date       | Status   |
-| ---------- | -------- |
-| 2025-08-26 | Approved |
-
-<!--
-Status options:
-- Draft
-- Proposed
-- Approved
-- Rejected
-- Deprecated
-- Superseded
--->
 
 ## Context
 
@@ -40,10 +24,6 @@ The USWDS team will author styles in CSS.
 ### Alternatives
 
 The main alternative to this decision is to continue authoring styles in Sass. The relative merits of CSS vs. Sass are covered in the Consequences section below.
-
-<!--
-Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
--->
 
 ## Consequences
 

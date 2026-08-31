@@ -1,10 +1,11 @@
+---
+status: Accepted
+date: 2026-07-28
+affects:
+  - "@uswds/uswds"
+---
+
 # 11. Use custom Vite plugins to migrate Storybook to v9
-
-**Package**: USWDS Core
-
-| Date       | Status   |
-| ---------- | -------- |
-| 2026-07-28 | Accepted |
 
 ## Context
 
