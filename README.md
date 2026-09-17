@@ -8,7 +8,7 @@ Everyone is welcome — community contribution is at the heart of this process. 
 This repository, or "repo" for short, is where we store USWDS team-created formal proposals and document our decisions about new solutions.
 
 > [!IMPORTANT]  
-> Only USWDS core team members can create formal proposals. We will close any proposal pull request that does not come from the USWDS core team. If you'd like to help make the case for a new USWDS solution or comment on an existing proposal, use the [USWDS component proposals discussion board](https://github.com/uswds/uswds/discussions/categories/component-proposals) instead. 
+> Only USWDS core team members can create formal proposals. We will close any proposal pull request that does not come from the USWDS core team. If you'd like to help make the case for a new USWDS solution or comment on an existing proposal, use the [USWDS proposals discussion board](https://github.com/uswds/uswds/discussions/categories/proposals) instead.
 
 
 ## Scope
@@ -58,7 +58,7 @@ The USWDS team uses the information from these new solution discussions to creat
   This discussion is the place to discuss the merits of the new solution, in collaboration with the community and the USWDS team.
   What makes a good case for a USWDS component or pattern?
   We've outlined the criteria in our [USWDS proposal template](https://github.com/uswds/uswds-proposals/tree/main/proposals/_proposal-template.md).
-1. Use the [uswds-public Slack channel](https://gsa-tts.slack.com/archives/C3F14AHSQ) or reach out to peers to get feedback and support.
+1. Share the proposal discussion with peers and ask for feedback in [USWDS GitHub Discussions](https://github.com/uswds/uswds/discussions).
 1. If the discussion tends toward support for including the solution in the design system, the USWDS core team collects this information to create a formal proposal. The formal proposal will include all information necessary to publish it on the USWDS site.
 1. The USWDS team will share the proposal in that discussion thread.
   When it's complete, there'll be a 45-day comment period where the community has an opportunity to provide feedback on the proposal.
