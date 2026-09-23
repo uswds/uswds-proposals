@@ -1,8 +1,11 @@
-# 2. Use Lit to build USWDS components
+---
+status: Accepted
+date: 2024-05-15
+affects:
+  - "@uswds/elements"
+---
 
-| Date       | Status   |
-| ---------- | -------- |
-| 2024-05-15 | Accepted |
+# 2. Use Lit to build USWDS components
 
 ## Context
 

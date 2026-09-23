@@ -1,29 +1,11 @@
-<!--
-The record number and the title should be in the filename.
-For example:
-/decisions/0000-adr-title.md
--->
-
-<!--
-PR Title:
-ADR Proposal: A brief description
--->
+---
+status: Accepted
+date: 2025-01-31
+affects:
+  - "@uswds/uswds"
+---
 
 # 5. Continue developing USWDS Core
-
-| Date       | Status   |
-| ---------- | -------- |
-| 2025-01-31 | Accepted |
-
-<!--
-Status options:
-- Draft
-- Proposed
-- Approved
-- Rejected
-- Deprecated
-- Superseded
--->
 
 ## Context
 

@@ -1,29 +1,11 @@
-<!--
-The record number and the title should be in the filename.
-For example:
-/decisions/0000-adr-title.md
--->
-
-<!--
-PR Title:
-ADR Proposal: A brief description
--->
+---
+status: Accepted
+date: 2025-07-08
+affects:
+  - "@uswds/elements"
+---
 
 # 6. Develop Components in TypeScript
-
-| Date       | Status   |
-| ---------- | -------- |
-| 2025-07-08 | Approved |
-
-<!--
-Status options:
-- Draft
-- Proposed
-- Approved
-- Rejected
-- Deprecated
-- Superseded
--->
 
 ## Context
 
@@ -41,10 +23,6 @@ The main alternative to this decision is to continue developing components in va
 2. Continuing to deliver TypeScript-authored components in vanilla JavaScript will let the USWDS team benefit from the improved tooling without passing additional complexity on to design system users.
 
 Another alternative would be to ship components in TypeScript, but this would increase complexity for design system users as well as moving the code we ship further away from the web platform. We've committed to staying closer to the web platform as one of our [engineering values](https://github.com/uswds/uswds-proposals/blob/main/docs/engineering-values.md).
-
-<!--
-Options considered (with benefits and risks/mitigations), assumptions, choice made, and reasoning.
--->
 
 ## Consequences
 

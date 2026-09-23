@@ -1,9 +1,11 @@
-# 3. USWDS Elments will not be a monorepo
+---
+status: Accepted
+date: 2024-12-17
+affects:
+  - "@uswds/elements"
+---
 
-| Date | Status |
-| ---- | ------ |
-| 2024-12-17 | Accepted |
-
+# 3. USWDS Elements will not be a monorepo
 
 ## Context
 
@@ -26,6 +28,6 @@ However, this approach is not without additional complexity costs. The single-pa
 
 USWDS Elements will not be organized as a monorepo.
 
-## Consquences
+## Consequences
 
 At least for the time being, Elements will ship a single package with all of the currently available components. The team will continue to evaluate whether this approach meets our needs, and make changes as appropriate.
